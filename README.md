@@ -34,4 +34,4 @@ pip install tk
 
 After installing python and tkinter, download the latest release and run the exe file
 
-#Thank you for downloading
+# Thank you for downloading
