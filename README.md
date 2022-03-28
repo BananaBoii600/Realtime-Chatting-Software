@@ -1,4 +1,4 @@
-# Chatting-App
+# Realtime-Chatting-Software
 A simple chatting app made with socket's in python
 
 **Server**
