@@ -1,4 +1,7 @@
 # Realtime-Chatting-Software
+
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 A simple chatting app made with socket's in python.
 
 The code is clean and can be easily edited
