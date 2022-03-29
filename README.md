@@ -38,6 +38,6 @@ pip install tk
 
 After installing python and tkinter, download the latest release and start the server.
 
-After running the server, you can open the client app and start chatting with your friends(***AFTER PORT FORWARDING***)
+After running the server, you can open the client app and start chatting with your friends(**AFTER PORT FORWARDING**)
 
 # Thank you for downloading
